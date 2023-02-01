@@ -107,3 +107,14 @@ img will come here soon...
 	<p align="center">
 	<img alt="cub3d" src="https://raw.githubusercontent.com/yeaktas/42-evaluation/main/img/help.jpg">
 </details>
+
+
+
+## Maybe you can help me
+I am collecting evaluation questions in this repository. I don't know if it's legal, so be quiet 🤫. If you want to help me, you can send the images through slack. I am using the following extension for Chrome:
+
+https://chrome.google.com/webstore/detail/gofullpage-full-page-scre/fdpohaocaechififmbbbbbknoalclacl
+
+Slack: yaktas
+
+Discord: Aktas#4242
