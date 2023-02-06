@@ -24,6 +24,13 @@
 </details>
 
 <details>
+  <summary>cub3d</summary>
+	</p>
+	<p align="center">
+	<img alt="cub3d" src="https://raw.githubusercontent.com/yeaktas/42-evaluations/main/img/projects-cub3d-42-edit-2023-02-02.png">
+</details>
+
+<details>
   <summary>CPP Modules</summary>
 	<details>
   		<summary>CPP Module 00</summary>
@@ -96,14 +103,6 @@
 	<p align="center">
 	<img alt="Philosophers" src="https://raw.githubusercontent.com/yeaktas/42-evaluations/main/img/help.jpg">
 </details>
-
-<details>
-  <summary>cub3d (not ready yet)</summary>
-	</p>
-	<p align="center">
-	<img alt="cub3d" src="https://raw.githubusercontent.com/yeaktas/42-evaluations/main/img/help.jpg">
-</details>
-
 
 
 ## Maybe you can help me
