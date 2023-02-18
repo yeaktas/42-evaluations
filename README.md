@@ -3,6 +3,13 @@
 	<h1>Evaluation Steps</h1> 
 
 <details>
+  <summary>get_next_line</summary>
+	</p>
+	<p align="center">
+	<img alt="get_next_line" src="https://raw.githubusercontent.com/yeaktas/42-evaluations/main/img/projects-get_next_line-42-edit-2023-02-17.png">
+</details>
+
+<details>
   <summary>minitalk</summary>
 	</p>
 	<p align="center">
@@ -60,13 +67,6 @@
 	</p>
 	<p align="center">
 	<img alt="Libft" src="https://raw.githubusercontent.com/yeaktas/42-evaluations/main/img/help.jpg">
-</details>
-
-<details>
-  <summary>get_next_line (not ready yet)</summary>
-	</p>
-	<p align="center">
-	<img alt="get_next_line" src="https://raw.githubusercontent.com/yeaktas/42-evaluations/main/img/help.jpg">
 </details>
 
 <details>
