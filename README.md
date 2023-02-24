@@ -17,6 +17,13 @@
 </details>
 
 <details>
+  <summary>Philosophers</summary>
+	</p>
+	<p align="center">
+	<img alt="Philosophers" src="https://raw.githubusercontent.com/yeaktas/42-evaluations/main/img/projects-philosophers-42-2023-02-24.png">
+</details>
+
+<details>
   <summary>Minishell</summary>
 	</p>
 	<p align="center">
@@ -95,13 +102,6 @@
 	</p>
 	<p align="center">
 	<img alt="push_swap" src="https://raw.githubusercontent.com/yeaktas/42-evaluations/main/img/help.jpg">
-</details>
-
-<details>
-  <summary>Philosophers (not ready yet)</summary>
-	</p>
-	<p align="center">
-	<img alt="Philosophers" src="https://raw.githubusercontent.com/yeaktas/42-evaluations/main/img/help.jpg">
 </details>
 
 
