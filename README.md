@@ -53,6 +53,12 @@
 		<img alt="CPP Module 00" src="https://raw.githubusercontent.com/yeaktas/42-evaluations/main/img/cpp_module_00-2023-02-01.png">
 	</details>
 	<details>
+  		<summary>CPP Module 02</summary>
+		</p>
+		<p align="center">
+		<img alt="CPP Module 02" src="https://raw.githubusercontent.com/yeaktas/42-evaluations/main/img/cpp_module_02-2023-06-09.png">
+	</details>
+	<details>
   		<summary>CPP Module 01</summary>
 		</p>
 		<p align="center">
