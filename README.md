@@ -118,4 +118,4 @@ https://chrome.google.com/webstore/detail/gofullpage-full-page-scre/fdpohaocaech
 
 Slack: yaktas
 
-Discord: Aktas#4242
+Discord: @aktas_
