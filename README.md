@@ -17,6 +17,13 @@
 </details>
 
 <details>
+  <summary>so_long</summary>
+	</p>
+	<p align="center">
+	<img alt="so_long" src="https://raw.githubusercontent.com/yeaktas/42-evaluations/main/img/so_long-2023-06-22.png">
+</details>
+
+<details>
   <summary>Philosophers</summary>
 	</p>
 	<p align="center">
@@ -100,13 +107,6 @@
 	</p>
 	<p align="center">
 	<img alt="Born2beroot" src="https://raw.githubusercontent.com/yeaktas/42-evaluations/main/img/help.jpg">
-</details>
-
-<details>
-  <summary>so_long (not ready yet)</summary>
-	</p>
-	<p align="center">
-	<img alt="so_long" src="https://raw.githubusercontent.com/yeaktas/42-evaluations/main/img/help.jpg">
 </details>
 
 <details>
