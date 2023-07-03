@@ -80,6 +80,13 @@
 </details>
 
 <details>
+  <summary>ft_irc</summary>
+	</p>
+	<p align="center">
+	<img alt="ft_irc" src="https://raw.githubusercontent.com/yeaktas/42-evaluations/main/img/ft_irc-2023-06-23.png">
+</details>
+
+<details>
   <summary>ft_containers</summary>
 	</p>
 	<p align="center">
