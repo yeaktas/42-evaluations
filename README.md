@@ -24,7 +24,7 @@
 </details>
 
 <details>
-  <summary>push_swap (not ready yet)</summary>
+  <summary>push_swap</summary>
 	</p>
 	<p align="center">
 	<img alt="push_swap" src="https://raw.githubusercontent.com/yeaktas/42-evaluations/main/img/push_swap-2023-06-21.png">
