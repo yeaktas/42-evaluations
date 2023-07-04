@@ -24,6 +24,13 @@
 </details>
 
 <details>
+  <summary>push_swap (not ready yet)</summary>
+	</p>
+	<p align="center">
+	<img alt="push_swap" src="https://raw.githubusercontent.com/yeaktas/42-evaluations/main/img/push_swap-2023-06-21.png">
+</details>
+
+<details>
   <summary>Philosophers</summary>
 	</p>
 	<p align="center">
@@ -114,13 +121,6 @@
 	</p>
 	<p align="center">
 	<img alt="Born2beroot" src="https://raw.githubusercontent.com/yeaktas/42-evaluations/main/img/help.jpg">
-</details>
-
-<details>
-  <summary>push_swap (not ready yet)</summary>
-	</p>
-	<p align="center">
-	<img alt="push_swap" src="https://raw.githubusercontent.com/yeaktas/42-evaluations/main/img/help.jpg">
 </details>
 
 
