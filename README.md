@@ -38,7 +38,7 @@
 </details>
 
 <details>
-  <summary>Minishell</summary>
+  <summary>Minishell (need pdf)</summary>
 	</p>
 	<p align="center">
 	<img alt="Minishell" src="https://raw.githubusercontent.com/yeaktas/42-evaluations/main/img/minishell-2023-01-06.png">
@@ -73,13 +73,13 @@
 		<img alt="CPP Module 01" src="https://raw.githubusercontent.com/yeaktas/42-evaluations/main/img/cpp_module_01-2023-01-22.png">
 	</details>
 	<details>
-  		<summary>CPP Module 02</summary>
+  		<summary>CPP Module 02 (need english img and pdf)</summary>
 		</p>
 		<p align="center">
 		<img alt="CPP Module 02" src="https://raw.githubusercontent.com/yeaktas/42-evaluations/main/img/cpp_module_02-2023-06-09.png">
 	</details>
 	<details>
-  		<summary>CPP Module 03</summary>
+  		<summary>CPP Module 03 (need pdf)</summary>
 		</p>
 		<p align="center">
 		<img alt="CPP Module 03" src="https://raw.githubusercontent.com/yeaktas/42-evaluations/main/img/cpp_module_03-2023-06-05.png">
@@ -94,7 +94,7 @@
 </details>
 
 <details>
-  <summary>ft_containers</summary>
+  <summary>ft_containers (need pdf)</summary>
 	</p>
 	<p align="center">
 	<img alt="ft_containers" src="https://raw.githubusercontent.com/yeaktas/42-evaluations/main/img/ft_containers-2023-01-30.png">
