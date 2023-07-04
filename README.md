@@ -124,10 +124,31 @@
 </details>
 
 <details>
-  <summary>MiniRT (not ready yet)</summary>
+  <summary>pipex (not ready yet)</summary>
 	</p>
 	<p align="center">
-	<img alt="MiniRT" src="https://raw.githubusercontent.com/yeaktas/42-evaluations/main/img/help.jpg">
+	<img alt="pipex" src="https://raw.githubusercontent.com/yeaktas/42-evaluations/main/img/help.jpg">
+</details>
+
+<details>
+  <summary>Fdf (not ready yet)</summary>
+	</p>
+	<p align="center">
+	<img alt="Fdf" src="https://raw.githubusercontent.com/yeaktas/42-evaluations/main/img/help.jpg">
+</details>
+
+<details>
+  <summary>fract-ol (not ready yet)</summary>
+	</p>
+	<p align="center">
+	<img alt="fract-ol" src="https://raw.githubusercontent.com/yeaktas/42-evaluations/main/img/help.jpg">
+</details>
+
+<details>
+  <summary>miniRT (not ready yet)</summary>
+	</p>
+	<p align="center">
+	<img alt="miniRT" src="https://raw.githubusercontent.com/yeaktas/42-evaluations/main/img/help.jpg">
 </details>
 
 <details>
@@ -138,10 +159,10 @@
 </details>
 
 <details>
-  <summary>Web Server (not ready yet)</summary>
+  <summary>webserv (not ready yet)</summary>
 	</p>
 	<p align="center">
-	<img alt="Web Server" src="https://raw.githubusercontent.com/yeaktas/42-evaluations/main/img/help.jpg">
+	<img alt="webserv" src="https://raw.githubusercontent.com/yeaktas/42-evaluations/main/img/help.jpg">
 </details>
 
 <details>
