@@ -100,6 +100,13 @@
 	<img alt="ft_containers" src="https://raw.githubusercontent.com/yeaktas/42-evaluations/main/img/ft_containers-2023-01-30.png">
 </details>
 
+<details>
+  <summary>ft_transcendence (need pdf)</summary>
+	</p>
+	<p align="center">
+	<img alt="ft_transcendence" src="https://raw.githubusercontent.com/yeaktas/42-evaluations/main/img/ft_transcendence-2023-07-05.png">
+</details>
+
 # not ready yet
 
 <details>
@@ -165,12 +172,6 @@
 	<img alt="webserv" src="https://raw.githubusercontent.com/yeaktas/42-evaluations/main/img/help.jpg">
 </details>
 
-<details>
-  <summary>ft_transcendence (not ready yet)</summary>
-	</p>
-	<p align="center">
-	<img alt="ft_transcendence" src="https://raw.githubusercontent.com/yeaktas/42-evaluations/main/img/help.jpg">
-</details>
 ## Maybe you can help me
 I am collecting evaluation questions in this repository. I don't know if it's legal, so be quiet 🤫. If you want to help me, you can send the images through slack. I am using the following extension for Chrome:
 
