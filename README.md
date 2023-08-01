@@ -3,6 +3,13 @@
 	<h1>Evaluation Steps</h1> 
 
 <details>
+  <summary>Libft</summary>
+	</p>
+	<p align="center">
+	<img alt="Libft" src="https://raw.githubusercontent.com/yeaktas/42-evaluations/main/img/Libft-2023-07-25.png">
+</details>
+
+<details>
   <summary>get_next_line</summary>
 	</p>
 	<p align="center">
@@ -58,8 +65,9 @@
 	<img alt="cub3d" src="https://raw.githubusercontent.com/yeaktas/42-evaluations/main/img/cub3d-2023-02-02.png">
 </details>
 
-<!-- <details>
+<details>
   <summary>CPP Modules</summary>
+    <ul>
 	<details>
   		<summary>CPP Module 00</summary>
 		</p>
@@ -91,54 +99,12 @@
 		<img alt="CPP Module 07" src="https://raw.githubusercontent.com/yeaktas/42-evaluations/main/img/cpp_module_07-2023-07-05.png">
 	</details>
 	<details>
-  		<summary>CPP Module 09</summary>
+		<summary>CPP Module 09</summary>
 		</p>
 		<p align="center">
 		<img alt="CPP Module 09" src="https://raw.githubusercontent.com/yeaktas/42-evaluations/main/img/cpp_module_09-2023-07-07.png">
 	</details>
-</details> -->
-
-<details>
-  <summary>CPP Modules</summary>
-  <details>
-    <summary>CPP Module 00</summary>
-    <p align="center">
-      <img alt="CPP Module 00" src="https://raw.githubusercontent.com/yeaktas/42-evaluations/main/img/cpp_module_00-2023-02-01.png">
-    </p>
-  </details>
-  <details>
-    <summary>CPP Module 01</summary>
-    <p align="center">
-      <img alt="CPP Module 01" src="https://raw.githubusercontent.com/yeaktas/42-evaluations/main/img/cpp_module_01-2023-01-22.png">
-    </p>
-  </details>
-  <details>
-    <summary>CPP Module 02 (need english img and pdf)</summary>
-    <p align="center">
-      <img alt="CPP Module 02" src="https://raw.githubusercontent.com/yeaktas/42-evaluations/main/img/cpp_module_02-2023-06-09.png">
-    </p>
-    <!-- Include the PDF link here -->
-  </details>
-  <details>
-    <summary>CPP Module 03 (need pdf)</summary>
-    <p align="center">
-      <img alt="CPP Module 03" src="https://raw.githubusercontent.com/yeaktas/42-evaluations/main/img/cpp_module_03-2023-06-05.png">
-    </p>
-    <!-- Include the PDF link here -->
-  </details>
-  <details>
-    <summary>CPP Module 07 (need pdf)</summary>
-    <p align="center">
-      <img alt="CPP Module 07" src="https://raw.githubusercontent.com/yeaktas/42-evaluations/main/img/cpp_module_07-2023-07-05.png">
-    </p>
-    <!-- Include the PDF link here -->
-  </details>
-  <details>
-    <summary>CPP Module 09</summary>
-    <p align="center">
-      <img alt="CPP Module 09" src="https://raw.githubusercontent.com/yeaktas/42-evaluations/main/img/cpp_module_09-2023-07-07.png">
-    </p>
-  </details>
+	</ul>
 </details>
 
 <details>
@@ -163,13 +129,6 @@
 </details>
 
 # not ready yet
-
-<details>
-  <summary>Libft (not ready yet)</summary>
-	</p>
-	<p align="center">
-	<img alt="Libft" src="https://raw.githubusercontent.com/yeaktas/42-evaluations/main/img/help.jpg">
-</details>
 
 <details>
   <summary>ft_printf (not ready yet)</summary>
