@@ -45,10 +45,10 @@
 </details>
 
 <details>
-  <summary>Minishell (need pdf)</summary>
+  <summary>Minishell</summary>
 	</p>
 	<p align="center">
-	<img alt="Minishell" src="https://raw.githubusercontent.com/yeaktas/42-evaluations/main/img/minishell-2023-01-06.png">
+	<img alt="Minishell" src="https://raw.githubusercontent.com/yeaktas/42-evaluations/main/img/minishell-2023-12-22.png">
 </details>
 
 <details>
@@ -97,6 +97,12 @@
 		</p>
 		<p align="center">
 		<img alt="CPP Module 07" src="https://raw.githubusercontent.com/yeaktas/42-evaluations/main/img/cpp_module_07-2023-07-05.png">
+	</details>
+	<details>
+  		<summary>CPP Module 08</summary>
+		</p>
+		<p align="center">
+		<img alt="CPP Module 08" src="https://raw.githubusercontent.com/yeaktas/42-evaluations/main/img/cpp_module_08-2023-10-05.png">
 	</details>
 	<details>
 		<summary>CPP Module 09</summary>
