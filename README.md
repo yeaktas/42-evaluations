@@ -78,6 +78,7 @@
 <details>
   <summary>CPP Modules</summary>
     <ul>
+	</p>
 	<details>
   		<summary>CPP Module 00</summary>
 		<a href="https://github.com/yeaktas/42-evaluations/blob/main/evaulation-pdfs/cpp_module_00-2023-05-02.pdf">[Go to pdf]</a>
