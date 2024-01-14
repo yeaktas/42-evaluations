@@ -27,6 +27,14 @@
 	<img alt="minitalk" src="https://raw.githubusercontent.com/yeaktas/42-evaluations/main/img/minitalk-2023-01-22.png">
 </details>
 
+
+<details>
+  <summary>pipex</summary>
+	</p>
+	<p align="center">
+	<img alt="pipex" src="https://raw.githubusercontent.com/yeaktas/42-evaluations/main/img/pipex-2024-01-08.png">
+</details>
+
 <details>
   <summary>so_long</summary>
 	<a href="https://github.com/yeaktas/42-evaluations/blob/main/evaulation-pdfs/so_long-2023-06-22.pdf">[Go to pdf]</a>
@@ -177,13 +185,6 @@
 </details>
 
 <details>
-  <summary>pipex (not ready yet)</summary>
-	</p>
-	<p align="center">
-	<img alt="pipex" src="https://raw.githubusercontent.com/yeaktas/42-evaluations/main/img/help.jpg">
-</details>
-
-<details>
   <summary>Fdf (not ready yet)</summary>
 	</p>
 	<p align="center">
@@ -203,8 +204,6 @@
 	<p align="center">
 	<img alt="miniRT" src="https://raw.githubusercontent.com/yeaktas/42-evaluations/main/img/help.jpg">
 </details>
-
-
 
 <details>
   <summary>webserv (not ready yet)</summary>
