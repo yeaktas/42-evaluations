@@ -162,7 +162,7 @@
 </details>
 
 <details>
-  <summary>ft_transcendence (need pdf)</summary>
+  <summary>ft_transcendence[old]</summary>
 	</p>
 	<p align="center">
 	<img alt="ft_transcendence" src="https://raw.githubusercontent.com/yeaktas/42-evaluations/main/img/ft_transcendence-2023-07-05.png">
@@ -210,6 +210,13 @@
 	</p>
 	<p align="center">
 	<img alt="webserv" src="https://raw.githubusercontent.com/yeaktas/42-evaluations/main/img/help.jpg">
+</details>
+
+<details>
+  <summary>ft_transcendence[new] (not ready yet)</summary>
+	</p>
+	<p align="center">
+	<img alt="ft_transcendence" src="https://raw.githubusercontent.com/yeaktas/42-evaluations/main/img/help.jpg">
 </details>
 
 ## Maybe you can help me
