@@ -116,10 +116,10 @@
 		<img alt="CPP Module 03" src="https://raw.githubusercontent.com/yeaktas/42-evaluations/main/img/cpp_module_03-2024-01-09.png">
 	</details>
 	<details>
-  		<summary>CPP Module 07 (need pdf)</summary>
+  		<summary>CPP Module 07</summary>
 		</p>
 		<p align="center">
-		<img alt="CPP Module 07" src="https://raw.githubusercontent.com/yeaktas/42-evaluations/main/img/cpp_module_07-2023-07-05.png">
+		<img alt="CPP Module 07" src="https://raw.githubusercontent.com/yeaktas/42-evaluations/main/img/cpp_module_07-2024-02-09.png">
 	</details>
 	<details>
   		<summary>CPP Module 08</summary>
